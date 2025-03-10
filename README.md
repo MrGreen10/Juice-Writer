@@ -6,4 +6,4 @@ Juice Writer 1.0 x86
 First Version.
 
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
-[Download 1.18!][https://github.com/MrGreen10/Juice-Writer/tags/1.18](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.18)
+[Download 1.18!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.18)
