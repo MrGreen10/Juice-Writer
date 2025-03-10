@@ -5,3 +5,4 @@ When downloading the application, antivirus software may say it is a virus. This
 Juice Writer 1.0 x86
 First Version.
 
+[Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
