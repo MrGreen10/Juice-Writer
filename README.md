@@ -9,5 +9,5 @@ This project is licensed under the [MrGreen10 License](LICENSE). For details, pl
 
 
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
-[Download 1.21!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.21)
 [Download 1.22!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.22)
+[Download 1.23!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.23)
