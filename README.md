@@ -13,3 +13,4 @@ This project is licensed under the [MrGreen10 License](LICENSE). For details, pl
 [Download 1.26!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.26)
 [Download Juice Notes!](https://github.com/MrGreen10/Juice-Notes/releases/tag/1.0)
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
+[Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
