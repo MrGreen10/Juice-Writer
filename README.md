@@ -7,8 +7,8 @@ First Version.
 
 
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
+[Download 1.32!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.32)
 [Download 1.31!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.31)
-[Download 1.30!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.30)
 [Download Juice Notes!](https://github.com/MrGreen10/Juice-Notes/releases/tag/1.0)
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
 [Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
