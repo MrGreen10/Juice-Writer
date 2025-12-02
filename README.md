@@ -13,4 +13,4 @@ First Version.
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
 [Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
 # Sorumluluk Reddi
-Bu projeyi eğlencesine yaptım.Oluşacak her türlü hasarlardan virüs bulaşması yazıcının veya bilgisayarın bozulmasından ben sorumlu değilim.
+Bu projeyi yalnızca eğlence amaçlı geliştirdim. Programın kullanımı sonucu ortaya çıkabilecek herhangi bir veri kaybı, yazılım/hardware hasarı veya virüs bulaşması gibi durumlardan sorumlu değilim.
