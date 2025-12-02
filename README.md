@@ -12,3 +12,5 @@ First Version.
 [Download Juice Notes!](https://github.com/MrGreen10/Juice-Notes/releases/tag/1.0)
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
 [Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
+# Sorumluluk Reddi
+Bu projeyi eğlencesine yaptım.Oluşacak her türlü hasarlardan virüs bulaşması yazıcının veya bilgisayarın bozulmasından ben sorumlu değilim.
