@@ -6,7 +6,7 @@
 
 🛠️2024'ten beri geliştiriliyor.
 
-⭐Onlarca özellik Şablonlar,Damgalar,Yazdırma ve DAHA FAZLASI!
+⭐Onlarca özellik Şablonlar,Damgalar,Yazdırma ve Daha Fazlası!
 
 💻C# ile yazıldı.
 
