@@ -10,7 +10,7 @@
 
 💻C# ile yazıldı.
 
-
+[Şimdi İndir!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.33)
 
 # Note For first Versions
 please read me
