@@ -19,11 +19,12 @@ If the application appears in the task manager even though you closed it, this i
 # Note For x86 Versions
 With the removal of Lite versions, there will no longer be an x86 version.
 [Download Latest LITE Version](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.16)
+# Sorumluluk Reddi
+Bu projeyi yalnızca eğlence amaçlı geliştirdim. Programın kullanımı sonucu ortaya çıkabilecek herhangi bir veri kaybı, yazılım/hardware hasarı veya virüs bulaşması gibi durumlardan sorumlu değilim.
+# Links
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
 [Download 1.33!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.33)
 [Download 1.32!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.32)
 [Download Juice Notes!](https://github.com/MrGreen10/Juice-Notes/releases/tag/1.0)
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
 [Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
-# Sorumluluk Reddi
-Bu projeyi yalnızca eğlence amaçlı geliştirdim. Programın kullanımı sonucu ortaya çıkabilecek herhangi bir veri kaybı, yazılım/hardware hasarı veya virüs bulaşması gibi durumlardan sorumlu değilim.
