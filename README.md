@@ -12,12 +12,11 @@
 
 [Şimdi İndir!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.33)
 
-# Note For first Versions
+# Note For All Versions
 please read me
-When downloading the application, antivirus software may say it is a virus. This is because there is no digital signature. If the application appears in the task manager even though you closed it, this is due to the "this.hide" command. You can close the application. I am working on this.
-Juice Writer 1.0 x86
-First Version.
-
+When downloading the application, antivirus software may say it is a virus. This is because there is no digital signature. 
+# Note For Some x86 Versions
+If the application appears in the task manager even though you closed it, this is due to the "this.hide" command. You can close the application. I am working on this.
 
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
 [Download 1.33!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.33)
