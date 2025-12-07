@@ -14,9 +14,11 @@
 
 # Note For All Versions
 When downloading the application, antivirus software may say it is a virus. This is because there is no digital signature. 
-# Note For Some x86 Versions
+# Note For First Versions
 If the application appears in the task manager even though you closed it, this is due to the "this.hide" command. You can close the application. I am working on this.
-
+# Note For x86 Versions
+With the removal of Lite versions, there will no longer be an x86 version.
+[Download Latest LITE Version](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.16)
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
 [Download 1.33!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.33)
 [Download 1.32!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.32)
