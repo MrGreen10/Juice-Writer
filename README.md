@@ -1,4 +1,5 @@
-![iconoffice](https://github.com/user-attachments/assets/57f5b16b-4e5b-4d17-83c1-9419db653fad)
+<img width="1391" height="1186" alt="FDFD" src="https://github.com/user-attachments/assets/0f0c86ea-5bb7-4ed4-b8a5-3f37b5ef74f3" />
+
 # Juice Writer
 🌐4 Farklı Dil Desteği
 
