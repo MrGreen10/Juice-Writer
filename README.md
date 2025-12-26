@@ -1,4 +1,4 @@
-<img width="250" height="160" alt="FDFD" src="https://github.com/user-attachments/assets/0f0c86ea-5bb7-4ed4-b8a5-3f37b5ef74f3" />
+<img width="250" height="260" alt="FDFD" src="https://github.com/user-attachments/assets/0f0c86ea-5bb7-4ed4-b8a5-3f37b5ef74f3" />
 
 # Juice Writer
 🌐4 Farklı Dil Desteği
