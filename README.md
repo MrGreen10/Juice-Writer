@@ -26,7 +26,6 @@ With the removal of Lite versions, there will no longer be an x86 version.
 Bu projeyi yalnızca eğlence amaçlı geliştirdim. Programın kullanımı sonucu ortaya çıkabilecek herhangi bir veri kaybı, yazılım/hardware hasarı veya virüs bulaşması gibi durumlardan sorumlu değilim.
 # Links
 [Tutorials!](https://github.com/MrGreen10/Juice-Writer/wiki)
-[Download 1.35!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.35)
+[Download 1.36!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.36)
 [Download Juice Notes!](https://github.com/MrGreen10/Juice-Notes/releases/tag/1.0)
 [Web Site](https://sites.google.com/view/mrgreen10/home-page)
-[Download Juice Office 2025](https://github.com/MrGreen10/Juice-Office-2025)
