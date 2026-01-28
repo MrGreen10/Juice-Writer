@@ -10,7 +10,8 @@
 ⭐Onlarca özellik Şablonlar,Damgalar,Yazdırma ve Daha Fazlası!
 
 💻C# ile yazıldı.
-**Bu yazılım İnternet gerektirir.**
+**1.35 ve önceki sürümler internet gerektirir.**
+**1.36 ve sonrası için internet gerekmez.**
 
 [Şimdi İndir!](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.35)
 
