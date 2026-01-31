@@ -11,6 +11,24 @@
 
 💻C# ile yazıldı.
 
+[EN]
+If you feel lost among the complex interfaces of other programs, give this one a try!
+Juice Writer saves you time with its more intuitive interface, and it already includes almost all the features found in other programs.
+Juice Writer is completely free.
+
+[TR]Eğer diğer programların karmaşık arayüzleri arasında kayboluyorsanız bu programı bir deneyin!
+Juice Writer daha anlaşılabilir arayüzü ile size zaman kazandırır diğer programlardaki özelliklerin
+neredeyse hepsi Juice Writer'da var zaten.**Juice Writer tamamen ücretsizdir.**
+
+[DE]
+Wenn Sie sich in den komplexen Benutzeroberflächen anderer Programme verlieren, probieren Sie dieses Programm aus!
+Juice Writer spart Ihnen Zeit dank seiner übersichtlicheren und benutzerfreundlichen Oberfläche – fast alle Funktionen anderer Programme sind bereits enthalten.
+Juice Writer ist völlig kostenlos.
+[IT]
+Se ti perdi tra le interfacce complesse di altri programmi, prova questo!
+Juice Writer ti fa risparmiare tempo grazie alla sua interfaccia più intuitiva e include già quasi tutte le funzionalità presenti in altri programmi.
+Juice Writer è completamente gratuito.
+
 **1.35 ve önceki sürümler internet gerektirir.**
 **1.36 ve sonrası için internet gerekmez.**
 
