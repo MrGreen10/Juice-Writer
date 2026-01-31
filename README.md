@@ -10,6 +10,7 @@
 ⭐Onlarca özellik Şablonlar,Damgalar,Yazdırma ve Daha Fazlası!
 
 💻C# ile yazıldı.
+
 **1.35 ve önceki sürümler internet gerektirir.**
 **1.36 ve sonrası için internet gerekmez.**
 
