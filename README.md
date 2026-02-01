@@ -9,9 +9,11 @@
 
 ⭐Onlarca özellik Şablonlar,Damgalar,Yazdırma ve Daha Fazlası!
 
+🔧Hafif ve hızlı
+
 💻C# ile yazıldı.
 
-[EN]
+
 If you feel lost among the complex interfaces of other programs, give this one a try!
 Juice Writer saves you time with its more intuitive interface, and it already includes almost all the features found in other programs.
 Juice Writer is completely free.
