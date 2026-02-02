@@ -13,6 +13,8 @@
 
 💻C# ile yazıldı.
 
+İlk sürüm yayınlanma tarihi:4 Aralık 2024
+
 
 If you feel lost among the complex interfaces of other programs, give this one a try!
 Juice Writer saves you time with its more intuitive interface, and it already includes almost all the features found in other programs.
