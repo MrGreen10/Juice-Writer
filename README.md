@@ -1,6 +1,7 @@
 <img width="250" height="260" alt="FDFD" src="https://github.com/user-attachments/assets/0f0c86ea-5bb7-4ed4-b8a5-3f37b5ef74f3" />
 
-![Repo views](https://komarev.com/ghpvc/?username=MrGreen10&repo=Juice-Writer&color=orange)
+![Downloads](https://img.shields.io/github/downloads/MrGreen10/Juice-Writer/total)
+
 # Juice Writer
 **Juice Writer API değildir bir kelime işlemci programıdır.**
 
