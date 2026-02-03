@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/github/v/release/MrGreen10/Juice-Writer)
 ![Downloads](https://img.shields.io/github/downloads/MrGreen10/Juice-Writer/total)
-![Repo views](https://komarev.com/ghpvc/?username=MrGreen10&repo=Juice-Writer)
 
 # Juice Writer
 **Juice Writer API değildir bir kelime işlemci programıdır.**
