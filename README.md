@@ -7,7 +7,8 @@
 
 ![Version](https://img.shields.io/github/v/release/MrGreen10/Juice-Writer)
 
-![Downloads](https://img.shields.io/github/downloads/MrGreen10/Juice-Writer/total)
+![GitHub Downloads](https://img.shields.io/github/downloads/MrGreen10/Juice-Writer/total)
+
 🌐4 Farklı Dil Desteği
 
 🎁Tamamen Ücretsiz
