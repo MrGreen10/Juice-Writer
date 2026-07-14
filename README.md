@@ -5,6 +5,7 @@
 # Juice Writer
 **Juice Writer API değildir bir kelime işlemci programıdır.**
 **Not:Bu proje tamamlandı.**
+
 ![Version](https://img.shields.io/github/v/release/MrGreen10/Juice-Writer)
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/MrGreen10/Juice-Writer/total)
