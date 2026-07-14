@@ -41,7 +41,7 @@ Se ti perdi tra le interfacce complesse di altri programmi, prova questo!
 Juice Writer ti fa risparmiare tempo grazie alla sua interfaccia più intuitiva e include già quasi tutte le funzionalità presenti in altri programmi.
 Juice Writer è completamente gratuito.
 
-**1.35 ve önceki sürümler internet gerektirir.**
+**1.35 ve önceki sürümlerden bazıları(1.8'den itibaren 1.35'e kadar) internet gerektirir.**
 **1.36 ve sonrası için internet gerekmez.**
 
 
@@ -50,8 +50,7 @@ When downloading the application, antivirus software may say it is a virus. This
 # Note For First Versions
 If the application appears in the task manager even though you closed it, this is due to the "this.hide" command. You can close the application. I am working on this.
 # Note For x86 Versions
-With the removal of Lite versions, there will no longer be an x86 version.
-[Download the last released LITE version.](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.16)
+[New x86 Express Version](https://github.com/MrGreen10/Juice-Writer/releases/tag/1.40E)
 # Sorumluluk Reddi
 Bu projeyi yalnızca eğlence amaçlı geliştirdim. Programın kullanımı sonucu ortaya çıkabilecek herhangi bir veri kaybı, yazılım/hardware hasarı veya virüs bulaşması gibi durumlardan sorumlu değilim.
 # Links
